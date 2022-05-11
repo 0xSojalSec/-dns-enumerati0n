@@ -10,6 +10,6 @@ chmod 700 dnsenum.sh
 ./dns-enumeration.sh
 ```
 ```
-Enter the ip address: 10.10.10.172                                                                                                                         
-Enter the Domain name: megabank.local 
+Enter the ip address: 171.1.1.172                                                                                                                         
+Enter the Domain name: Domain.com
 ```
