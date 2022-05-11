@@ -7,7 +7,7 @@ chmod 700 dnsenum.sh
 ```
 ## Enter the ip address and domain name:
 ```bash
-./dnsenum.sh
+dnsenumeration.sh
 ```
 ```
 Enter the ip address: 10.10.10.172                                                                                                                         
